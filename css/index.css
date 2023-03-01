@@ -59,8 +59,8 @@ ul {
   width: 35px;
   height: 35px;
   position: absolute;
-  top: 4vw;
-  right: 3.5vh;
+  top: 10px;
+  right: 10px;
   /* background-image: url("../img/music.svg"); */
   border-radius: 50%;
   background-color: rgba(0, 0, 0, 0.6);
@@ -194,7 +194,7 @@ ul {
 
 .our-name {
   position: relative;
-  font-size: 30px;
+  font-size: 20px;
   margin-top: 20px;
   color: #1c1c1d;
   display: flex;
@@ -204,5 +204,5 @@ ul {
 
 .our-name>span {
   color: red;
-  font-size: 28px;
+  font-size: 20px;
 }
