@@ -171,7 +171,7 @@ ul {
 }
 
 .date>span {
-  font-size: 36px;
+  font-size: 30px;
   position: relative;
   color: #3E4149;
 }
@@ -194,7 +194,7 @@ ul {
 
 .our-name {
   position: relative;
-  font-size: 20px;
+  font-size: 25px;
   margin-top: 20px;
   color: #1c1c1d;
   display: flex;
